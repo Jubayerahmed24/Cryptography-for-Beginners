@@ -173,3 +173,9 @@ gpg filename.txt.gpg
 
 
 Done!
+
+
+
+<h2>Thanks, everyone for reading:)
+
+Happy Hacking ;)</h2>
